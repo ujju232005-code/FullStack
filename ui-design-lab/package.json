@@ -1,0 +1,25 @@
+{
+    "name": "ui-design-lab",
+    "version": "1.0.0",
+    "description": "UI Design Lab Manual - Bootstrap and Material UI",
+    "type": "module",
+    "scripts": {
+        "exp1": "vite --config vite.config.exp1.js",
+        "exp2": "vite --config vite.config.exp2.js",
+        "exp3": "vite --config vite.config.exp3.js",
+        "exp4": "vite --config vite.config.exp4.js"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "bootstrap": "^5.3.2",
+        "react-bootstrap": "^2.9.2",
+        "@mui/material": "^5.15.0",
+        "@emotion/react": "^11.11.3",
+        "@emotion/styled": "^11.11.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.2.1",
+        "vite": "^5.0.8"
+    }
+}
